@@ -45,7 +45,7 @@ namespace Games
                 c.SwaggerDoc("v1", new Info
                 {
                     Version = "v1",
-                    Title = "ToDo API",
+                    Title = "ToDo API Staging",
                     Description = "A simple example ASP.NET Core Web API",
                     TermsOfService = "None",                    
                 });

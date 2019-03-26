@@ -17,7 +17,7 @@ namespace Games.Controllers
             _boardGameService.Initialize();
         }
 
-        // GET: api/<controller>
+        // GET: api/<controller >
         [HttpGet]
         public Task<List<BoardGame>> GetBoardGamesAsync()
         {
